@@ -18,7 +18,7 @@
 </head>
 <body>
 <div class="topnav" >
-	<img src="images/logo.png" width="128" height="128">
+	<img src="images/logo2.jpg" width="128" height="128">
 	<a href="http://10.12.100.116/dashboard/Home/">Dashboard</a>
     <!--<a href="connection.php">Test Connections</a>
     <a href="index.php">Generate Reports</a> -->
