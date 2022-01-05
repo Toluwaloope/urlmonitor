@@ -38,18 +38,18 @@
 		<tbody>
 <!-- TEST FOR ecoalert -->
 <tr>
-		<td><label for="fep">ECOALERT</label></td>
+		<td><label for="fep">FACEBOOK</label></td>
 		<td>
 			<?PHP
 			
-			echo testUrl('https://ecoalert.ecobank.group/ecoalert/index.htm');
+			echo testUrl('www.facebook.com');
 			
 			?> 
 		</td> 
 		<td>
 			<?PHP
 			
-			echo headCode('https://ecoalert.ecobank.group/ecoalert/index.htm');
+			echo headCode('www.facebook.com');
 			
 			?> 
 		</td>  
@@ -57,18 +57,18 @@
 <!-- TEST FOR SHIFT REPORT -->
 <tr>
 
-		<td><label for="fep">SHIFT REPORT</label></td>
+		<td><label for="fep">GOOGLE</label></td>
 		<td>
 			<?PHP
 			
-			echo testUrl('http://10.12.100.116/shiftreport/index.php');
+			echo testUrl('www.google.com');
 			
 			?> 
 		</td> 
 		<td>
 			<?PHP
 			
-			echo headCode('http://10.12.100.116/shiftreport/index.php');
+			echo headCode('www.google.com');
 			
 			?> 
 		</td> 
